@@ -109,6 +109,7 @@ Pod::Spec.new do |s|
   s.xmpp_extension 'XEP-0066'
   s.xmpp_extension 'XEP-0082'
   s.xmpp_extension 'XEP-0085'
+  s.xmpp_extension 'XEP-0092'
   s.xmpp_extension 'XEP-0100'
   s.xmpp_extension 'XEP-0106'
   s.xmpp_extension 'XEP-0115' do |x|
@@ -135,4 +136,5 @@ Pod::Spec.new do |s|
   s.xmpp_extension 'XEP-0224'
   s.xmpp_extension 'XEP-0297'
   s.xmpp_extension 'XEP-0308'
+  s.xmpp_extension 'XEP-0335'
 end
